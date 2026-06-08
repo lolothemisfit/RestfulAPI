@@ -38,4 +38,6 @@ This project helped strengthen my understanding of:
 * Repository pattern implementation
 * API testing using Postman
 
+## Author
 
+Lelona Ntshiba
