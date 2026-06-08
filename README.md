@@ -38,15 +38,4 @@ This project helped strengthen my understanding of:
 * Repository pattern implementation
 * API testing using Postman
 
-## Future Improvements
-
-* Input validation
-* Exception handling
-* Authentication and authorization
-* Swagger/OpenAPI documentation
-* Unit and integration testing
-
-## Author
-
-Lelona Ntshiba
 
